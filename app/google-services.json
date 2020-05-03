@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257152451433",
+    "firebase_url": "https://animalhouse-71597.firebaseio.com",
+    "project_id": "animalhouse-71597",
+    "storage_bucket": "animalhouse-71597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257152451433:android:3f1d7df671a1a9279233f8",
+        "android_client_info": {
+          "package_name": "com.hardtask.com.kangaroo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257152451433-r2nmsr204e6ojhe4din49dl6ka5d5op3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hardtask.com.kangaroo",
+            "certificate_hash": "6fac5e83e4a902e21cb1cbe80040a3463837d9f3"
+          }
+        },
+        {
+          "client_id": "257152451433-kcjcdkteqg251kjtbfvqunfpk3qaibd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NcH6No43AxgfzEg2IwJxSWbmmJ48nWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257152451433-kcjcdkteqg251kjtbfvqunfpk3qaibd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

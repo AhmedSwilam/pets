@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Animal House</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="advertise_now">Advertise For Free</string>
+    <string name="set_language">Choose Language</string>
+    <string name="login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="nav_about_us">About Us</string>
+    <string name="nav_myadds">My Advertises</string>
+    <string name="drawer_favorites">Favorites</string>
+    <string name="phone_number">Enter Your Phone Number</string>
+    <string name="phone_register">Phone Number</string>
+    <string name="user_name">User Name</string>
+    <string name="pass">Enter Your Password</string>
+    <string name="password">Password</string>
+    <string name="for_pass">Forgot Your Password?</string>
+    <string name="for_pass_click">Click Here!</string>
+    <string name="register">Register!</string>
+    <string name="or">OR</string>
+    <string name="spinner_title">Select Language</string>
+    <string name="txt_welcome">Welcome To Animal House Please Verify Your Account To Start Add Your Advertises</string>
+    <string name="code">Enter Code</string>
+    <string name="btn_verify">Verify</string>
+    <string name="spin_type">Advertise Type</string>
+    <string name="spin_age">Age Type</string>
+    <string name="spin_gender">Gender</string>
+    <string name="adv_name">Advertise Title</string>
+    <string name="adv_desc">Description</string>
+    <string name="main_cat">Category</string>
+    <string name="sub_cat">Sub Category</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_desc">Enter Description</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_count">Enter Count</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="btn_add_advertise">Add Advertise</string>
+
+
+
+    <string-array name="language_option">
+        <item> </item>
+        <item>English</item>
+        <item>Arabic</item>
+
+    </string-array>
+</resources>

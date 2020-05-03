@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بيت الحيوانات</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="advertise_now">اعلن الان مجانا</string>
+    <string name="set_language">اختار اللغة</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="btn_register">تسجيل</string>
+    <string name="nav_about_us">عننا</string>
+    <string name="nav_myadds">اعلاناتى</string>
+    <string name="drawer_favorites">المفضله</string>
+    <string name="phone_number">ادخل رقم التليفون</string>
+    <string name="phone_register">رقم الموبايل</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="pass">ادخل الرقم السرى</string>
+    <string name="password">الرقم السرى</string>
+    <string name="for_pass">هل نسيت كلمة السر؟</string>
+    <string name="for_pass_click">اضغط هنا!</string>
+    <string name="register">تسجيل مستخدم جديد</string>
+    <string name="or">او</string>
+    <string name="spinner_title">Select Language</string>
+    <string name="txt_welcome">مرحبا بك نرجو تفعيل حسابك لكى تستطيع اضافة اعلاناتك معنا</string>
+    <string name="code">ادخل الكود</string>
+    <string name="btn_verify">تاكيد</string>
+    <string name="spin_type">اختر نوع الاعلان</string>
+    <string name="spin_age">اختر العمر</string>
+    <string name="spin_gender">اختر النوع </string>
+    <string name="adv_name">اسم الاعلان</string>
+    <string name="adv_desc">وصف الاعلان</string>
+    <string name="main_cat">الفئه الرئيسيه</string>
+    <string name="sub_cat">الفئه الفرعيه</string>
+    <string name="enter_title">ادخل اسم الاعلان هنا</string>
+    <string name="enter_desc">ادخل الوصف المناسب لاعلانك</string>
+    <string name="enter_address">اهتم بالعنوان ان يكون واضحا</string>
+    <string name="enter_age">العمر</string>
+    <string name="enter_count">العدد</string>
+    <string name="enter_price">السعر</string>
+    <string name="btn_add_advertise">اضف اعلانى</string>
+</resources>

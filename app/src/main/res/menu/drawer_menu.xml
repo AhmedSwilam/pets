@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawerLogin"
+            android:title="@string/login" />
+        <item
+            android:id="@+id/drawerAddNow"
+            android:title="@string/advertise_now" />
+        <item
+            android:id="@+id/drawerLanguage"
+            android:title="@string/set_language"
+            />
+
+    </group>
+
+    <item android:title="@string/drawer_favorites">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/drawer_myAdds"
+                    android:title="@string/nav_myadds" />
+                <item
+                    android:id="@+id/drawerAboutUs"
+                    android:title="@string/nav_about_us" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

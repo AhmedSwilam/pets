@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="splashActivity">#08EBD2</color>
+    <color name="white">#ECEDF7</color>
+    <color name="gray">#2B2B1F</color>
+    <color name="black">#040403</color>
+    <color name="splashActivity1">#2D355C</color>
+</resources>
